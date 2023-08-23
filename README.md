@@ -29,3 +29,5 @@
    - Provided clear and concise instructions to participants, ensuring a smooth and efficient execution of the biomedical instrumentation practical session
    - Conducted regular assistance sessions to reinforce the understanding of participants
    - Monitored the progress of practical sessions attentively, promptly addressing any questions or concerns raised by participants
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafilaac&show_icons=true&locale=en&layout=compact" alt="nafilaac" /></p>
