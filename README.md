@@ -1,7 +1,7 @@
 # Hi there, I'm Nafila 👋
 ## About me:
 - 🔭 I’m currently a fresh graduate of Biomedical Engineering ITS
-- 🌱 I’m learning Python, C, SQL, HTML, CSS, and Javascript
+- 🌱 I’m learning SQL, Python, Tableau, C, HTML, CSS, and Javascript
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientiest
 - 💬 Ask me about anything
 - 📫 How to reach me: nafilacahya@gmail.com
@@ -21,7 +21,12 @@
    - Learning with students from Japan (Shibaura Institute of Technology) and China (I-Shou University)
 
 ## Work Experience:
-#### [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Mentor of Machine Learning | `Feb 2023 - Jul 2023`
+#### 1. [PT. Kilang Pertamina Internasional](https://kpi.pertamina.com/) | Commercial and Sales Intern | `Oct 2023 - Present`
+   - Managed 5 members in a team to produce weekly report, monitored the progress or issue of each buyer
+   - Organized comprehensive data on refinery product such as revenue, volume and margin into database
+   - Visualized data related to volume, selling price, and margin for over 40 refinery products using Microsoft Excel and Think-Cell
+   - Handled client communication and created sales order using SAP, successfully produce up to 100 professional email
+#### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Mentor of Machine Learning | `Feb 2023 - Jul 2023`
    - Led and assisted 25 students of machine learning path through weekly consultation session
    - Provided support and guidance to lagging-behind students, offering personalized assistance to help them overcome challenges
    - Planned, assisted, and facilitated instructor during class session to increase student understanding
